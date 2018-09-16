@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+Demo App
 Mobile App Design - iOS Pre-work Project
 
 ### App Description
