@@ -2,8 +2,8 @@
 Mobile App Design - iOS Pre-work Project
 
 ### App Description
-Background, text color, and text are changed when buttons are pressed. Pressing on the background goes
-back into default settings.
+Background, text color, and text are changed when buttons are pressed. Pressing on the background takes
+us back into default settings.
 
 <img src="https://i.imgur.com/wyrVMgD.gif" width=200><br>
 
