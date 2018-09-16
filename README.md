@@ -1,6 +1,8 @@
+## NAME_OF_YOUR_APP_HERE
 Mobile App Design - iOS Pre-work Project
 
-Changes the text "Hello" into orange when the button is clicked. 
+### App Description
+Changes the color of the text "Hello" into orange when the button is clicked. 
 
 <img src="https://i.imgur.com/Uf1O34S.gif" width=200><br>
 
